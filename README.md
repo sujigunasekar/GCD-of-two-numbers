@@ -28,10 +28,11 @@ To write a program to find the GCD of two numbers using function.
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
 
+![output](gcd.PNG)
 
-![output](GCD.png)
+![output](GCD.py.png)
+
 
 
 ## Result:
