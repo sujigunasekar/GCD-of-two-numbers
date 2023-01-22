@@ -34,8 +34,7 @@ def gcd():
 ## Output:
 
 ![output](gcd.PNG)
-
-![output](GCD.py.png)
+![Screenshot from 2023-01-22 18-49-17](https://user-images.githubusercontent.com/119559822/213918059-7465f04b-a0be-4ea7-ae72-73663b95beb7.png)
 
 
 
